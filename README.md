@@ -24,10 +24,10 @@ https://nodejs-authentication-vela.onrender.com
 
 ##### Clone the latest Repository
 
-`git clone https://github.com/sagar-demo/node-js-Auth
+`git clone https://github.com/AkashSingh94314/NodeJS-Authentication
 ##### Into the project directory
 
-`cd nodejs-auth`
+`cd NodeJS-Authentication`
 
 ##### Installing NPM dependencies
 
